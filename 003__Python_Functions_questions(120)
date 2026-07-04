@@ -1,0 +1,358 @@
+1. What is a function in Python?
+
+
+2. Why do we use functions?
+
+
+3. What is the difference between a function definition and a function call?
+
+
+4. What is the difference between parameters and arguments?
+
+
+5. What happens if a function does not return anything?
+
+
+6. What is the difference between print() and return?
+
+
+7. Can a function return multiple values?
+
+
+8. Are functions first-class objects in Python?
+
+
+9. Can you assign a function to a variable?
+
+
+10. Can a function be passed as an argument?
+
+
+11. How are functions stored in memory?
+
+
+12. What is the scope of variables inside a function?
+
+
+13. What is variable shadowing?
+
+
+14. Explain local and global variables.
+
+
+15. What is the LEGB rule?
+
+
+16. What are positional arguments?
+
+
+17. What are keyword arguments?
+
+
+18. What are default arguments?
+
+
+19. What are variable-length arguments?
+
+
+20. Difference between *args and **kwargs.
+
+
+21. When would you use *args?
+
+
+22. When would you use **kwargs?
+
+
+23. Can positional arguments appear after keyword arguments?
+
+
+24. What happens if required arguments are missing?
+
+
+25. Explain positional-only parameters.
+
+
+26. Explain keyword-only parameters.
+
+
+27. Why are mutable default arguments dangerous?
+
+
+28. How would you fix the mutable default argument problem?
+
+
+29. What is a nested function?
+
+
+30. Why would you define a function inside another function?
+
+
+31. Can an inner function access outer function variables?
+
+
+32. Explain lexical scoping.
+
+
+33. What is the lifetime of a nested function?
+
+
+34. Can a nested function be returned?
+
+
+35. What is a closure?
+
+
+36. What conditions are required to create a closure?
+
+
+37. How does a closure differ from a regular nested function?
+
+
+38. Explain the role of free variables in closures.
+
+
+39. What is the purpose of nonlocal?
+
+
+40. Difference between global and nonlocal.
+
+
+41. Where are closures used in real-world applications?
+
+
+42. How are closures used in caching?
+
+
+43. How are closures used in authentication systems?
+
+
+44. How are closures used in rate limiting?
+
+
+45. What is a higher-order function?
+
+
+46. Give examples of higher-order functions in Python.
+
+
+47. Why are functions called first-class citizens?
+
+
+48. Explain map().
+
+
+49. Explain filter().
+
+
+50. Explain reduce().
+
+
+51. Explain sorted() with a custom key.
+
+
+52. When should you use map() instead of loops?
+
+
+53. Why is filter() considered functional programming?
+
+
+54. Compare list comprehensions with map().
+
+
+55. What is a decorator?
+
+
+56. Why do we use decorators?
+
+
+57. How do decorators work internally?
+
+
+58. Explain the relationship between decorators and closures.
+
+
+59. What is functools.wraps and why is it used?
+
+
+60. What happens if wraps is not used?
+
+
+61. How do decorators accept arguments?
+
+
+62. Explain decorator chaining.
+
+
+63. How are decorators used in Flask?
+
+
+64. How are decorators used in FastAPI?
+
+
+65. How are decorators used in Django?
+
+
+66. How would you implement API rate limiting using decorators?
+
+
+67. How would you implement role-based access control using decorators?
+
+
+68. What is recursion?
+
+
+69. What is a base case in recursion?
+
+
+70. Why is the base case important?
+
+
+71. Difference between recursion and iteration.
+
+
+72. When should recursion be avoided?
+
+
+73. What is stack overflow in recursion?
+
+
+74. Explain recursion memory usage.
+
+
+75. Why doesn't Python optimize tail recursion?
+
+
+76. What is the recursion limit in Python?
+
+
+77. Where is recursion used in file systems?
+
+
+78. Where is recursion used in web crawlers?
+
+
+79. Where is recursion used in compilers?
+
+
+80. Why are decorators usually implemented using closures?
+
+
+81. Can a decorator work without a closure?
+
+
+82. Is every closure a nested function?
+
+
+83. Is every nested function a closure?
+
+
+84. Why is the wrapper function typically nested inside a decorator?
+
+
+85. How do closures retain values after the outer function has finished execution?
+
+
+86. How would you implement a cache without using a class?
+
+
+87. How would you count API calls using closures?
+
+
+88. How would you log function execution times?
+
+
+89. How would you secure sensitive functions?
+
+
+90. How would you create reusable validation logic?
+
+
+91. How would you implement retry logic for failed API calls?
+
+
+92. How would you implement rate limiting?
+
+
+93. How would you implement memoization?
+
+
+94. How would you build a plugin system using higher-order functions?
+
+
+95. How would you create configurable decorators?
+
+
+96. What are pure functions?
+
+
+97. What are impure functions?
+
+
+98. What are side effects in functions?
+
+
+99. What is the difference between a named function and an anonymous function?
+
+
+100. What is a lambda function?
+
+
+101. When should lambda functions be used?
+
+
+102. What are the limitations of lambda functions?
+
+
+103. Can lambda functions have multiple expressions?
+
+
+104. How do lambda functions work with map(), filter(), and sorted()?
+
+
+105. What is function composition?
+
+
+106. What is currying and how is it related to closures?
+
+
+107. What is partial function application?
+
+
+108. What is the difference between a closure and a class?
+
+
+109. When would you choose a closure over a class?
+
+
+110. How does Python handle function arguments internally?
+
+
+111. Are arguments passed by value or by reference in Python?
+
+
+112. Explain the concept of pass-by-object-reference.
+
+
+113. What is argument unpacking?
+
+
+114. How do * and ** work during function calls?
+
+
+115. Can functions be stored in data structures such as lists and dictionaries?
+
+
+116. Can a function return another function?
+
+
+117. Can a function accept another function and return a function?
+
+
+118. What are callback functions?
+
+
+119. Where are callback functions used in real-world applications?
+
+
+120. What is the difference between callbacks and higher-order functions?
